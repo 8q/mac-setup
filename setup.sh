@@ -7,6 +7,7 @@ defaults write com.apple.finder AppleShowAllFiles TRUE
 killall Finder
 
 # スクリーンショットを保存するフォルダの変更 
+mkdir ~/Pictures/Screenshots
 defaults write com.apple.screencapture location ~/Pictures/Screenshots
 killall SystemUIServer
 
