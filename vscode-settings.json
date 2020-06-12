@@ -1,20 +1,7 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "terminal.external.osxExec": "iTerm.app",
-    "terminal.integrated.fontFamily": "Hack Nerd Font",
-    "ruby.codeCompletion": "rcodetools",
+    "terminal.external.osxExec": "iTerm2.app",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
     "files.insertFinalNewline": true,
-    "ruby.intellisense": "rubyLocate",
     "files.trimFinalNewlines": true,
-    "ruby.format": "rubocop",
-    "python.formatting.autopep8Args": [
-        "--ignore=E731"
-    ],
-    "C_Cpp.clang_format_fallbackStyle": "LLVM",
-    "terminal.integrated.shell.linux": "/bin/zsh",
-    "editor.suggestSelection": "first",
-    "python.jediEnabled": false,
-    "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.lineHeight": 0
+    "terminal.integrated.cursorBlinking": true
 }
-
